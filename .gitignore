@@ -2,7 +2,7 @@
 .vscode/
 .vs/
 .pytest_cache/
-downloads/
+.box/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -108,5 +108,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Pipenv
 Pipfile
 Pipfile.lock
+
+# OSX
+.DS_Store
